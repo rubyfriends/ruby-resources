@@ -87,5 +87,6 @@ class AuthorsController < ApplicationController
         redirect_to root_path
         return false
       end
+    end
   end
 end
