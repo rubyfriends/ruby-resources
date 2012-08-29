@@ -21,7 +21,7 @@ Build on the JSBlogger Project turning the “articles” into posted resources 
  
      For Now:
       
-     1. Instead of just text and tags add fields Example of this in action: ![picture alt](http://cl.ly/image/3w293X0H0L1J "Example of a post input form"):
+     1. Instead of just text and tags add fields Example of this in action: (http://cl.ly/image/3w293X0H0L1J)
         a. links to videos or websites
         b. uploads
         c. sharing flag (public, private, group)
