@@ -23,8 +23,7 @@ Build on the JSBlogger Project turning the “articles” into posted resources 
         a. links to videos or websites
         b. uploads
         c. sharing flag (public, private, group)
-
-      2.  Add a feed of recent posted resources
+     2.  Add a feed of recent posted resources
    For Later:
       3.  Add the ability to bookmark or add a post to your personal collection
       4.  Allow sharing a post via facebook, twitter, or email
