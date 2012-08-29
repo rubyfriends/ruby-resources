@@ -17,9 +17,9 @@ Public Contact Information
 
 Post shared resources
 Build on the JSBlogger Project turning the “articles” into posted resources that all of us can share. We share code snippets, links, tools, etc on social media, in our own collections (like Dennis and I use Evernote) and in our email.  Example: recently one of my coworkers shared a really cool way to check html email that we distribute.  I had to remember was it in hipchat, email, twitter direct message, etc.  Even though we could use Makandra cards or Evernote for this it’s a good exercise to model after an existing app and try to implement features.
+ 
  For Now:
      1. Instead of just text and tags add fields (Example of this in action: http://cl.ly/image/3w293X0H0L1J):
-
         a. links to videos or websites
         b. uploads
         c. sharing flag (public, private, group)
