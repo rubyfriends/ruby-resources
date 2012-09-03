@@ -38,3 +38,9 @@ gem 'jquery-rails'
 # gem 'debugger'
 gem "paperclip"
 gem 'sorcery'
+gem 'haml-rails'
+
+group :development do
+ gem 'hpricot'
+ gem 'ruby_parser'
+end
