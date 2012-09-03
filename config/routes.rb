@@ -1,4 +1,6 @@
 Blogger::Application.routes.draw do
+  devise_for :users
+
   resources :authors
 
 	root :to => 'articles#index'
