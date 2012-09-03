@@ -1,5 +1,4 @@
 class TagsController < ApplicationController
-	has_many :taggings, :dependant => :destroy
   def index
   	@articles = Article.all 
   end
@@ -7,6 +6,4 @@ class TagsController < ApplicationController
   def show
   	@tag = Tag.find(params[:id])
   end
-
- 
 end
