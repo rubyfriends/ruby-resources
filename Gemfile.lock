@@ -84,6 +84,7 @@ GEM
       activesupport (>= 3.0.0)
       cocaine (>= 0.0.2)
       mime-types
+    pg (0.14.0)
     polyglot (0.3.3)
     rack (1.4.1)
     rack-cache (1.2)
@@ -153,6 +154,7 @@ DEPENDENCIES
   hpricot
   jquery-rails
   paperclip
+  pg
   rails (= 3.2.7)
   ruby_parser
   sass-rails (~> 3.2.3)
